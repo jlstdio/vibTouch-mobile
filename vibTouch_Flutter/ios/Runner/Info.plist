@@ -28,6 +28,8 @@
 	<true/>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
 	<key>NSDocumentsFolderUsageDescription</key>
 	<string>App will save csv and wav file on a certain condition</string>
 	<key>NSMicrophoneUsageDescription</key>
